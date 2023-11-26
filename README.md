@@ -21,9 +21,8 @@
 
 Проекты:
 -----------------------------
-<p align="center"> Проекты курса Яндекс.Практикум «Аналитик данных» — <a href="https://github.com/AndreySolot/Yandex_Practicum_Projects">репозиторий</a>
-__________________________________________________________________________________________________________________________
-
+<p align="left"> Проекты курса Яндекс.Практикум «Аналитик данных» — <a href="https://github.com/AndreySolot/Yandex_Practicum_Projects">репозиторий</a>
+<p align="left"> Соревнования и Хакатоны» — <a href="https://github.com/AndreySolot/Yandex_Practicum_Projects">репозиторий</a>
 
 
 
